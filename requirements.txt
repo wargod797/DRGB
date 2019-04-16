@@ -1,0 +1,3 @@
+requirements:
+Camera - any
+Software - MATLAB 2015 and above with image proceesing toolkit downloaded
